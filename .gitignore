@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+.react-router/
+*.db
+*.db-journal
+*.sqlite
+data/
+.env
+.env.local
+.DS_Store
